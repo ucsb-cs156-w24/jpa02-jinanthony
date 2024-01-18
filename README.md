@@ -8,7 +8,7 @@
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-w24/jpa02-cgaucho
+  https://github.com/ucsb-cs156-w24/jpa02-jinanthony
 
 Repo: https://ucsb-cs156-w24/STARTER-jpa02
 
@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-w24/STARTER-jpa02
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: http://jpa02-anthonyjin.dokku-01.cs.ucsb.edu/
 
 
 # About this repo
